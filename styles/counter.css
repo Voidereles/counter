@@ -407,8 +407,10 @@ a.sizeOf.active {
 body {
   font-family: 'Kelson-Sans-RU', sans-serif;
   color: #3F3F3F;
-  overflow-x: hidden;
+  overflow: hidden;
   width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .counter {

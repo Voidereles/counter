@@ -4,8 +4,10 @@
 body {
     font-family: 'Kelson-Sans-RU', sans-serif;
     color: $dark;
-    overflow-x: hidden;
+    overflow: hidden;
     width: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .counter {

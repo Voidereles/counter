@@ -7,7 +7,7 @@ import 'bootstrap';
         hour = minute * 60,
         day = hour * 24;
 
-    let startTime = "Apr 9, 2021 19:00:00",
+    let startTime = "Apr 13, 2021 19:00:00",
         countDown = new Date(startTime).getTime(),
         x = setInterval(function () {
 
